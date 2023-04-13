@@ -1,4 +1,4 @@
-# Double-UNet
+# UNet with two custom losses
 A implementation in tensorflow of a UNet model for image segmentation, with two custom loss functions. The purpose is to predict three images.
 
 ![image](https://user-images.githubusercontent.com/98736513/231716852-0fee01a3-f59a-461f-bcaf-86fd34c87a6c.png)
